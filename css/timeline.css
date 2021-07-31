@@ -1,7 +1,7 @@
 
   
   /* 複寫區 */
-  ul{
+  .right ul{
     padding:0;
     list-style:none;
     font-size:15px;
@@ -9,40 +9,40 @@
     letter-spacing:1px;
   }
 
-  li{
+  .right li{
     margin-left: 20px;
   }
     
-  .listExperience>li{
+  .right .listExperience>li{
     display:flex;
     margin-bottom: 20px;
   }
   
-  .listExperience>li:nth-child(1) ul{
+  .right  .listExperience>li:nth-child(1) ul{
     border-color:#ff7168;
   }
   
-  .listExperience>li:nth-child(2) ul{
+  .right  .listExperience>li:nth-child(2) ul{
     border-color:#ffa582;
   }
   
-  .listExperience>li:nth-child(3) ul{
+  .right  .listExperience>li:nth-child(3) ul{
     border-color:#ffb087;
   }
   
-  .listExperience>li:nth-child(4) ul{
+  .right  .listExperience>li:nth-child(4) ul{
     border-color:#ffde91;
   }
   
-  .listExperience>li:nth-child(5) ul{
+  .right  .listExperience>li:nth-child(5) ul{
     border-color:#ff7168;
   }
   
-  .listExperience>li:nth-child(6) ul{
+  .right  .listExperience>li:nth-child(6) ul{
     border-color:#ffa582;
   }
   
-  .listExperience li ul{
+  .right  .listExperience li ul{
     padding-left:10px;
     margin-left:10px;
     border-left:solid 4px white;
